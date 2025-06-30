@@ -50,3 +50,11 @@ Rutas privadas
 Caché
 Invalidación de queries
 Query Client como gestor de estado
+
+![react-router-chat-1](https://github.com/user-attachments/assets/3cdfaf67-4340-454a-a0b5-de1ad3f7978d)
+![react-router-chat-2](https://github.com/user-attachments/assets/8ac33d1e-4294-4ee0-8639-c855852e955a)
+![react-router-chat-3](https://github.com/user-attachments/assets/c7301947-b043-4b68-94c7-501464f43fdd)
+
+
+
+
